@@ -1,0 +1,504 @@
+Symbol,GICS Sector,Market_Cap
+MMM,Industrials,104183775232
+ABT,Health Care,210504646656
+ABBV,Health Care,189689102336
+ABMD,Health Care,15033098240
+ACN,Information Technology,205086179328
+ATVI,Communication Services,59504807936
+ADBE,Information Technology,275726041088
+AMD,Information Technology,123140710400
+AAP,Consumer Discretionary,13531290624
+AES,Utilities,15366260736
+AFL,Financials,35435249664
+A,Health Care,48405405696
+APD,Materials,58066251776
+AKAM,Information Technology,17279520768
+ALK,Industrials,7666764288
+ALB,Materials,25313826816
+ARE,Real Estate,29191227392
+ALGN,Health Care,53600800768
+ALLE,Industrials,12072211456
+LNT,Utilities,13966899200
+ALL,Financials,37844209664
+GOOGL,Communication Services,1813863071744
+GOOG,Communication Services,1813260009472
+MO,Consumer Staples,89013739520
+AMZN,Consumer Discretionary,1679338110976
+AMCR,Materials,17998344192
+AEE,Utilities,20936908800
+AAL,Industrials,13875024896
+AEP,Utilities,40660402176
+AXP,Financials,137548136448
+AIG,Financials,47882760192
+AMT,Real Estate,122319142912
+AWK,Utilities,30525812736
+AMP,Financials,30842226688
+ABC,Health Care,25202487296
+AME,Industrials,29423276032
+AMGN,Health Care,120537956352
+APH,Information Technology,45246713856
+ADI,Information Technology,92053127168
+ANSS,Information Technology,29980829696
+ANTM,Health Care,94039449600
+AON,Financials,65297321984
+AOS,Industrials,10059360256
+APA,Energy,8199297536
+AAPL,Information Technology,2345800564736
+AMAT,Information Technology,119990239232
+APTV,Consumer Discretionary,41715040256
+ADM,Consumer Staples,33880799232
+ANET,Information Technology,26838843392
+AJG,Financials,30971150336
+AIZ,Financials,9374887936
+T,Communication Services,194493595648
+ATO,Utilities,11338271744
+ADSK,Information Technology,63283822592
+ADP,Information Technology,83394797568
+AZO,Consumer Discretionary,35692990464
+AVB,Real Estate,31015913472
+AVY,Materials,17614295040
+BKR,Energy,20645896192
+BLL,Materials,29300180992
+BAC,Financials,363187077120
+BBWI,Consumer Discretionary,17779083264
+BAX,Health Care,40357736448
+BDX,Health Care,71719960576
+BBY,Consumer Discretionary,26906001408
+BIO,Health Care,22386753536
+TECH,Health Care,19182428160
+BIIB,Health Care,42431180800
+BLK,Financials,130975309824
+BK,Financials,45670535168
+BA,Industrials,128021463040
+BKNG,Consumer Discretionary,99888226304
+BWA,Consumer Discretionary,10725806080
+BXP,Real Estate,17637726208
+BSX,Health Care,62179524608
+BMY,Health Care,132971061248
+AVGO,Information Technology,202111680512
+BR,Information Technology,19381469184
+BRO,Financials,15710855168
+CHRW,Industrials,11796123648
+COG,Energy,8715343872
+CDNS,Information Technology,42427064320
+CZR,Consumer Discretionary,24100562944
+CPB,Consumer Staples,12744558592
+COF,Financials,75570233344
+CAH,Health Care,14846872576
+KMX,Consumer Discretionary,23335487488
+CCL,Consumer Discretionary,31156432896
+CARR,Industrials,45153185792
+CTLT,Health Care,22692962304
+CAT,Industrials,109858684928
+CBOE,Financials,13090371584
+CBRE,Real Estate,32585580544
+CDW,Information Technology,26097571840
+CE,Materials,17272270848
+CNC,Health Care,37003669504
+CNP,Utilities,13761946624
+CDAY,Information Technology,16863893504
+CERN,Health Care,21450758144
+CF,Materials,12150129664
+CRL,Health Care,20991096832
+SCHW,Financials,143702147072
+CHTR,Communication Services,137252626432
+CVX,Energy,199284293632
+CMG,Consumer Discretionary,51780030464
+CB,Financials,78907285504
+CHD,Consumer Staples,20428992512
+CI,Health Care,69643730944
+CINF,Financials,18642143232
+CTAS,Industrials,40557813760
+CSCO,Information Technology,233972383744
+C,Financials,147525369856
+CFG,Financials,20167784448
+CTXS,Information Technology,13285868544
+CLX,Consumer Staples,20727838720
+CME,Financials,71061700608
+CMS,Utilities,17037616128
+KO,Consumer Staples,226966831104
+CTSH,Information Technology,40273178624
+CL,Consumer Staples,64141369344
+CMCSA,Communication Services,251537391616
+CMA,Financials,11392419840
+CAG,Consumer Staples,16355970048
+COP,Energy,91490680832
+ED,Utilities,25820942336
+STZ,Consumer Staples,40466219008
+COO,Health Care,20881108992
+CPRT,Industrials,33390618624
+GLW,Information Technology,32019537920
+CTVA,Materials,31724826624
+COST,Consumer Staples,197967593472
+CCI,Real Estate,75659182080
+CSX,Industrials,23100700672
+CMI,Industrials,33547743232
+CVS,Health Care,112777388032
+DHI,Consumer Discretionary,30673582080
+DHR,Health Care,216801148928
+DRI,Consumer Discretionary,20394498048
+DVA,Health Care,12895865856
+DE,Industrials,110408761344
+DAL,Industrials,27786264576
+XRAY,Health Care,12911326208
+DVN,Energy,23779495936
+DXCM,Health Care,51925266432
+FANG,Energy,17189670912
+DLR,Real Estate,41137188864
+DFS,Financials,39518502912
+DISCA,Communication Services,12040652800
+DISCK,Communication Services,12894883840
+DISH,Communication Services,23108202496
+DG,Consumer Discretionary,50831314944
+DLTR,Consumer Discretionary,20012990464
+D,Utilities,58989166592
+DPZ,Consumer Discretionary,18828279808
+DOV,Industrials,22861365248
+DOW,Materials,44415963136
+DTE,Utilities,21587001344
+DUK,Utilities,74652516352
+DRE,Real Estate,18055528448
+DD,Materials,36744409088
+DXC,Information Technology,8788585472
+EMN,Materials,14256763904
+ETN,Industrials,61365018624
+EBAY,Consumer Discretionary,48546734080
+ECL,Materials,60853112832
+EIX,Utilities,21673498624
+EW,Health Care,70779584512
+EA,Communication Services,38475730944
+EMR,Industrials,57373294592
+ENPH,Information Technology,20451198976
+ETR,Utilities,19914831872
+EOG,Energy,47701471232
+EFX,Industrials,31216820224
+EQIX,Real Estate,71568965632
+EQR,Real Estate,30058782720
+ESS,Real Estate,20778199040
+EL,Consumer Staples,112211968000
+ETSY,Consumer Discretionary,26990323712
+EVRG,Utilities,14336128000
+ES,Utilities,27844788224
+RE,Financials,10196841472
+EXC,Utilities,47099834368
+EXPE,Consumer Discretionary,24799350784
+EXPD,Industrials,20418318336
+EXR,Real Estate,22912954368
+XOM,Energy,253673717760
+FFIV,Information Technology,12086701056
+FB,Communication Services,965899452416
+FAST,Industrials,30256963584
+FRT,Real Estate,9257952256
+FDX,Industrials,59012059136
+FIS,Information Technology,76047949824
+FITB,Financials,30590756864
+FE,Utilities,19814279168
+FRC,Financials,33902073856
+FISV,Information Technology,72897855488
+FLT,Information Technology,22234339328
+FMC,Materials,12101550080
+F,Consumer Discretionary,57120370688
+FTNT,Information Technology,47015985152
+FTV,Industrials,24543135744
+FBHS,Industrials,12584489984
+FOXA,Communication Services,22599903232
+FOX,Communication Services,22027831296
+BEN,Financials,15642254336
+FCX,Materials,49197842432
+GPS,Consumer Discretionary,9289009152
+GRMN,Consumer Discretionary,30368516096
+IT,Information Technology,26148317184
+GNRC,Industrials,26777067520
+GD,Industrials,56422830080
+GE,Industrials,928165658624
+GIS,Consumer Staples,36189581312
+GM,Consumer Discretionary,76667904000
+GPC,Consumer Discretionary,17798950912
+GILD,Health Care,87754973184
+GL,Financials,9246946304
+GPN,Information Technology,47857467392
+GS,Financials,132337295360
+GWW,Industrials,20986300416
+HAL,Energy,19920807936
+HBI,Consumer Discretionary,6629693952
+HIG,Financials,25267691520
+HAS,Consumer Discretionary,12727882752
+HCA,Health Care,83258933248
+PEAK,Real Estate,18118961152
+HSIC,Health Care,11280408576
+HSY,Consumer Staples,34916085760
+HES,Energy,24260397056
+HPE,Information Technology,18518087680
+HLT,Consumer Discretionary,38033821696
+HOLX,Health Care,18671697920
+HD,Consumer Discretionary,354916171776
+HON,Industrials,149308719104
+HRL,Consumer Staples,22295545856
+HST,Real Estate,11946975232
+HWM,Industrials,14068403200
+HPQ,Information Technology,34332012544
+HUM,Health Care,50960531456
+HBAN,Financials,23145373696
+HII,Industrials,7907255808
+IEX,Industrials,16065480704
+IDXX,Health Care,53458206720
+INFO,Industrials,49353465856
+ITW,Industrials,67561058304
+ILMN,Health Care,59889201152
+INCY,Health Care,15104312320
+IR,Industrials,21626996736
+INTC,Information Technology,218052001792
+ICE,Financials,65590382592
+IBM,Information Technology,122832609280
+IP,Materials,22336958464
+IPG,Communication Services,14767335424
+IFF,Materials,33079230464
+INTU,Information Technology,148928888832
+ISRG,Health Care,117523718144
+IVZ,Financials,11499359232
+IPGP,Information Technology,8635261952
+IQV,Health Care,46303379456
+IRM,Real Estate,12651403264
+JKHY,Information Technology,12271040512
+J,Industrials,17718355968
+JBHT,Industrials,18136313856
+SJM,Consumer Staples,13014281216
+JNJ,Health Care,428743852032
+JCI,Industrials,50485407744
+JPM,Financials,502740746240
+JNPR,Information Technology,9261932544
+KSU,Industrials,24917649408
+K,Consumer Staples,21791744000
+KEY,Financials,21108787200
+KEYS,Information Technology,30931544064
+KMB,Consumer Staples,45047173120
+KIM,Real Estate,9245680640
+KMI,Energy,38248755200
+KLAC,Information Technology,53193453568
+KHC,Consumer Staples,44791750656
+KR,Consumer Staples,30301478912
+LHX,Industrials,45481852928
+LH,Health Care,27650078720
+LRCX,Information Technology,83570458624
+LW,Consumer Staples,8965623808
+LVS,Consumer Discretionary,28495894528
+LEG,Consumer Discretionary,6168687616
+LDOS,Industrials,13648369664
+LEN,Consumer Discretionary,29479802880
+LLY,Health Care,212519944192
+LNC,Financials,13512675328
+LIN,Materials,155972599808
+LYV,Communication Services,20210683904
+LKQ,Consumer Discretionary,15603542016
+LMT,Industrials,97874460672
+L,Financials,14048334848
+LOW,Consumer Discretionary,145216405504
+LUMN,Communication Services,14424295424
+LYB,Materials,32218349568
+MTB,Financials,19443480576
+MRO,Energy,10844985344
+MPC,Energy,40754581504
+MKTX,Financials,15909433344
+MAR,Consumer Discretionary,50014892032
+MMC,Financials,77942702080
+MLM,Materials,22287499264
+MAS,Industrials,13970919424
+MA,Information Technology,348035874816
+MTCH,Communication Services,43267608576
+MKC,Consumer Staples,22240161792
+MCD,Consumer Discretionary,181894840320
+MCK,Health Care,32245643264
+MDT,Health Care,171194941440
+MRK,Health Care,185650626560
+MET,Financials,55099232256
+MTD,Health Care,33080942592
+MGM,Consumer Discretionary,22015256576
+MCHP,Information Technology,43310899200
+MU,Information Technology,81975803904
+MSFT,Information Technology,2135350706176
+MAA,Real Estate,21362128896
+MRNA,Health Care,154271072256
+MHK,Consumer Discretionary,12858338304
+TAP,Consumer Staples,10308227072
+MDLZ,Consumer Staples,82456477696
+MPWR,Information Technology,22428153856
+MNST,Consumer Staples,47306297344
+MCO,Financials,66547724288
+MS,Financials,189854597120
+MOS,Materials,13884976128
+MSI,Information Technology,39646322688
+MSCI,Financials,49272229888
+NDAQ,Financials,31335198720
+NTAP,Information Technology,20531744768
+NFLX,Communication Services,258880831488
+NWL,Consumer Discretionary,10207200256
+NEM,Materials,43727421440
+NWSA,Communication Services,13766965248
+NWS,Communication Services,14607458304
+NEE,Utilities,151561240576
+NLSN,Industrials,6972766720
+NKE,Consumer Discretionary,229569658880
+NI,Utilities,9350453248
+NSC,Industrials,61364097024
+NTRS,Financials,23124353024
+NOC,Industrials,57672323072
+NLOK,Information Technology,14869789696
+NCLH,Consumer Discretionary,10332228608
+NRG,Utilities,10130367488
+NUE,Materials,30797983744
+NVDA,Information Technology,128954769408
+NVR,Consumer Discretionary,17770774528
+NXPI,Information Technology,56856276992
+ORLY,Consumer Discretionary,42751737856
+OXY,Energy,27909228544
+ODFL,Industrials,34036887552
+OMC,Communication Services,15896636416
+OKE,Energy,25965895680
+ORCL,Information Technology,252648079360
+OGN,Health Care,
+OTIS,Industrials,35923562496
+PCAR,Industrials,28057147392
+PKG,Materials,13492011008
+PH,Industrials,36904853504
+PAYX,Information Technology,38461222912
+PAYC,Information Technology,29394124800
+PYPL,Information Technology,308002455552
+PENN,Consumer Discretionary,11812847616
+PNR,Industrials,12362103808
+PBCT,Financials,7429488128
+PEP,Consumer Staples,208695214080
+PKI,Health Care,19482535936
+PFE,Health Care,240924573696
+PM,Consumer Staples,153391513600
+PSX,Energy,31049150464
+PNW,Utilities,8081991680
+PXD,Energy,41359622144
+PNC,Financials,84002922496
+POOL,Consumer Discretionary,17810272256
+PPG,Materials,34636623872
+PPL,Utilities,21713256448
+PFG,Financials,17849427968
+PG,Consumer Staples,344196644864
+PGR,Financials,52881850368
+PLD,Real Estate,92900696064
+PRU,Financials,41594580992
+PTC,Information Technology,14139455488
+PEG,Utilities,30487412736
+PSA,Real Estate,52409409536
+PHM,Consumer Discretionary,12409365504
+PVH,Consumer Discretionary,7989431296
+QRVO,Information Technology,19299663872
+PWR,Industrials,16140447744
+QCOM,Information Technology,146527191040
+DGX,Health Care,17754714112
+RL,Consumer Discretionary,8746615808
+RJF,Financials,12803234816
+RTX,Industrials,131570417664
+O,Real Estate,24281985024
+REG,Real Estate,11577794560
+REGN,Health Care,64459120640
+RF,Financials,20744529920
+RSG,Industrials,38561517568
+RMD,Health Care,38536077312
+RHI,Industrials,11540880384
+ROK,Industrials,34444689408
+ROL,Industrials,17558984704
+ROP,Industrials,47663796224
+ROST,Consumer Discretionary,40908210176
+RCL,Consumer Discretionary,23412895744
+SPGI,Financials,102649896960
+CRM,Information Technology,251105607680
+SBAC,Real Estate,36258803712
+SLB,Energy,43222380544
+STX,Information Technology,19271104512
+SEE,Materials,8643365888
+SRE,Utilities,37811032064
+NOW,Information Technology,120940855296
+SHW,Materials,74364936192
+SPG,Real Estate,43928952832
+SWKS,Information Technology,27537512448
+SNA,Industrials,11636393984
+SO,Utilities,65571540992
+LUV,Industrials,31372550144
+SWK,Industrials,29321033728
+SBUX,Consumer Discretionary,131627892736
+STT,Financials,30189740032
+STE,Health Care,20984956928
+SYK,Health Care,100942716928
+SIVB,Financials,35522076672
+SYF,Financials,29469618176
+SNPS,Information Technology,46066970624
+SYY,Consumer Staples,41284665344
+TMUS,Communication Services,157484564480
+TROW,Financials,45818105856
+TTWO,Communication Services,17322258432
+TPR,Consumer Discretionary,11031622656
+TGT,Consumer Discretionary,115488374784
+TEL,Information Technology,46538604544
+TDY,Industrials,20117553152
+TFX,Health Care,18105184256
+TER,Information Technology,18533670912
+TSLA,Consumer Discretionary,749046857728
+TXN,Information Technology,179985580032
+TXT,Industrials,16318760960
+TMO,Health Care,226560999424
+TJX,Consumer Discretionary,84550819840
+TSCO,Consumer Discretionary,23861448704
+TT,Industrials,42178531328
+TDG,Industrials,35037077504
+TRV,Financials,38597361664
+TRMB,Information Technology,21171406848
+TFC,Financials,79601672192
+TWTR,Communication Services,49843032064
+TYL,Information Technology,18458705920
+TSN,Consumer Staples,28380119040
+UDR,Real Estate,15640236032
+ULTA,Consumer Discretionary,20944683008
+USB,Financials,90448732160
+UAA,Consumer Discretionary,9059502080
+UA,Consumer Discretionary,8989874176
+UNP,Industrials,133604614144
+UAL,Industrials,15751776256
+UNH,Health Care,376178507776
+UPS,Industrials,163680387072
+URI,Industrials,26260942848
+UHS,Health Care,12228592640
+VLO,Energy,29091448832
+VTR,Real Estate,20767805440
+VRSN,Information Technology,23161223168
+VRSK,Industrials,32700239872
+VZ,Communication Services,224226181120
+VRTX,Health Care,47010066432
+VFC,Consumer Discretionary,26676283392
+VIAC,Communication Services,26150707200
+VTRS,Health Care,16558641152
+V,Information Technology,496315432960
+VNO,Real Estate,8476155392
+VMC,Materials,23481704448
+WRB,Financials,12872538112
+WAB,Industrials,16724432896
+WMT,Consumer Staples,393702047744
+WBA,Consumer Staples,41568706560
+DIS,Communication Services,317090627584
+WM,Industrials,63285280768
+WAT,Health Care,22636679168
+WEC,Utilities,27685730304
+WFC,Financials,190160224256
+WELL,Real Estate,34695995392
+WST,Health Care,31554461696
+WDC,Information Technology,17872338944
+WU,Information Technology,8504257024
+WRK,Materials,13697612800
+WY,Real Estate,27383805952
+WHR,Consumer Discretionary,13183145984
+WMB,Energy,31680940032
+WLTW,Financials,29408045056
+WYNN,Consumer Discretionary,9813852160
+XEL,Utilities,33056671744
+XLNX,Information Technology,37142179840
+XYL,Industrials,23211014144
+YUM,Consumer Discretionary,36504788992
+ZBRA,Information Technology,28424132608
+ZBH,Health Care,31449511936
+ZION,Financials,10277816320
+ZTS,Health Care,91520835584

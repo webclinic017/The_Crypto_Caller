@@ -14,7 +14,7 @@ def is_cosolidating(df, percentage=2):
     return False
 
 def is_breaking_out(df, percentage=2.5):
-    last_close = df[-1:]['Close'].values[0]
+    last_close = df[-1:]['Close'].values[:]
     
     if is_cosolidating(df[:-1], percentage=percentage):
         recent_closes = df[-16:-1]
@@ -28,8 +28,8 @@ def is_breaking_out(df, percentage=2.5):
 for filename in os.listdir('datasets/daily'): 
     df = pd.read_csv('datasets/daily/{}'.format(filename))
     
-    if is_cosolidating(df, percentage=2.5):
+    if is_cosolidating(df, percentage=2):
         print("{} is consolidating".format(filename))
 
-    if is_breaking_out(df):
+    if is_breaking_out(df, percentage=2.5):
         print("{} is breaking out".format(filename))
