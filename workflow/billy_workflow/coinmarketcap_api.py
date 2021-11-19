@@ -27,7 +27,7 @@ def get_crypto_tickers():
     crypto_df = pd.DataFrame(
         data = crypto_symbols
     )
-    crypto_df = crypto_df["symbol"]
+    crypto_df = crypto_df["id", "name", "symbol", "quote"]
     return crypto_df
 
 # still working on this function...
