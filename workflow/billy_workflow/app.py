@@ -9,8 +9,11 @@ from typing import Any, List
 import pandas as pd
 import hashlib
 from typing import List
+from dotenv import load_dotenv
+import os
+import finnhub
 
-from finnhub_api import displaySymbol
+from coinmarketcap_api import get_crypto_tickers#, get_crypto_price
 
 st.markdown("# The Crypto Caller")
 st.markdown("*Input Project Description...*")
@@ -20,17 +23,19 @@ st.markdown("""### Please input your existing cryptocurrency portfolio below:"""
 def user_portfolio():
     return []
 
-cryptocurrency = st.selectbox(
-    "Select a Cryptocurrency", 
-    displaySymbol()
-    )
+####################################################### Looking for a solution here for displaySymbol()
+cryptocurrency = st.selectbox("Select a Cryptocurrency", get_crypto_tickers())
+# quote = get_crypto_price()
+
 amount = st.number_input("Quantity of Coin/Token")
+
+#crypto_usd = get_crypto_prices(cryptocurrency)
 
 if st.button("Add Portfolio Position"):
     user_portfolio().append({"Ticker": cryptocurrency, "Amount": amount})
 
 if st.button("Delete Portfolio Position"):
-    user_portfolio().remove({"Ticker": cryptocurrency, "Amount":amount})
+    user_portfolio().remove({"Ticker":cryptocurrency, "Amount":amount})
 
 user_portfolio_df = pd.DataFrame(user_portfolio())
 
